@@ -3,7 +3,7 @@
 🌱 I’m currently learning High load architecture for costs improvement <br>
 💬 Ask me about Ruby, Rails, System Architecture <br>
 📫 How to reach me **rodion.radchenko@gmail.com** <br>
-📄 Know about my experiences [Link to Resume](https://docs.google.com/document/d/1lvTftZOJeqzmgLG48SqQBJBijVvKwrk0/edit?usp=sharing&ouid=113338868117563804110&rtpof=true&sd=true) <br>
+📄 Know about my experiences [Link to Resume](https://www.dropbox.com/s/kpbjb4izpbaendk/Radchenko%20Resume.pdf?dl=0) <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ion.radchenko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodion-radchenko) 
