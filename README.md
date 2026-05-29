@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on Netrguru @ Registria <br>
 🌱 I’m currently learning High load architecture for costs improvement <br>
 💬 Ask me about Ruby, Rails, System Architecture <br>
 📫 How to reach me **rodion.radchenko@gmail.com** <br>
